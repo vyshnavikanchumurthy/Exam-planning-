@@ -1,0 +1,6 @@
+{
+  "name": "ExamForge - Semester Exam Preparation & Timing Optimizer",
+  "description": "Smart semester exam prep engine with AI-powered high-yield topic and question analysis, chronobiology-based study schedule timing, and exam pacing simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
